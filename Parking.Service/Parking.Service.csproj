@@ -10,8 +10,4 @@
     <ProjectReference Include="..\Parking.Repository\Parking.Repository.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Domain\" />
-  </ItemGroup>
-
 </Project>
